@@ -6,3 +6,4 @@ class ATMCard:
         return self.defaultPin
     def cekSaldo(self):
         return self.defaultBalance
+# by fri3nds
