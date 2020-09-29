@@ -7,3 +7,4 @@ class ATMCard:
     def cekSaldo(self):
         return self.defaultBalance
 # by fri3nds
+# i love zahra
